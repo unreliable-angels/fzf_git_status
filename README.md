@@ -4,6 +4,7 @@ fzf source to select from git status.
 
 ## Prerequisites
 
+- git
 - fzf
 
 ## Installation
